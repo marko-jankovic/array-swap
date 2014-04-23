@@ -1,0 +1,21 @@
+{
+  "name": "array-swap",
+  "version": "0.0.1",
+  "description": "Swapping two items in a javascript array - Array.prototype.swap",
+  "main": "index.js",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Marko-Jankovic/array-swap.git"
+  },
+  "keywords": [
+    "array",
+    "swap",
+    "Array.prototype.swap"
+  ],
+  "author": "Marko Jankovic",
+  "bugs": {
+    "url": "https://github.com/Marko-Jankovic/array-swap/issues"
+  },
+  "homepage": "https://github.com/Marko-Jankovic/array-swap"
+}
