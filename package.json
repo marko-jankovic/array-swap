@@ -1,6 +1,6 @@
 {
   "name": "array-swap",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Swapping two items in a javascript array - Array.prototype.swap",
   "main": "index.js",
   "repository": {
