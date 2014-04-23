@@ -1,9 +1,8 @@
 {
   "name": "array-swap",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Swapping two items in a javascript array - Array.prototype.swap",
   "main": "index.js",
-
   "repository": {
     "type": "git",
     "url": "https://github.com/Marko-Jankovic/array-swap.git"
